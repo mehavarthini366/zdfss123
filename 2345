@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>KPR CAS</title>
+  <style>
+    body {
+      margin: 0;
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background-color: #1a1a1a;
+      font-family: Arial, sans-serif;
+    }
+    .logo {
+      font-size: 4rem;
+      font-weight: 700;
+      color: #00d1b2;
+      letter-spacing: 8px;
+      user-select: none;
+    }
+    .logo span {
+      color: #ff3860;
+    }
+  </style>
+</head>
+<body>
+  <div class="logo">
+    KPR <span>CAS</span>
+  </div>
+</body>
+</html>
